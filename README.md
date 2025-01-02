@@ -16,7 +16,6 @@ The default template for Rails projects.
 
 It includes:
 
-- `brakeman` for security linting
 - `htmlbeautifier` for HTML formatting
 - `rails_best_practices` for code quality
 - `rubocop-rails` and `rubocop-performance` for Ruby linting
