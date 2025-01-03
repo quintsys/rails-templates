@@ -1,8 +1,6 @@
 gem_group :development do
   gem 'rails_best_practices'
   gem 'htmlbeautifier', require: false
-  gem 'rubocop-performance', require: false
-  gem 'rubocop-rails', require: false
   gem 'solargraph'
   gem 'solargraph-rails'
 end

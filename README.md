@@ -18,7 +18,6 @@ It includes:
 
 - `htmlbeautifier` for HTML formatting
 - `rails_best_practices` for code quality
-- `rubocop-rails` and `rubocop-performance` for Ruby linting
 - `solargraph` and `solargraph-rails` for Ruby language server
 - Authentication with `authentication-zero`
 - `meta-tags` for SEO
